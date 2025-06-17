@@ -15,7 +15,7 @@
 - :thinking: Actualmente estoy abierto a una nueva oportunidad laboral.
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame
 <p align="center">
   <a href="fe.menesesm2@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
 	<a href="mailto:felipemenesesm@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-%230072C6.svg?style=plastic&logo=microsoft&logoColor=white" alt="Hotmail"/></a>
