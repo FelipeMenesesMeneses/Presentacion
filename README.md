@@ -7,7 +7,7 @@
 
 <br>
 
-- :school: Soy felipe, Ingeniero en Informatica en [DuocUC](https://www.duoc.cl/)
+- :school: Soy Felipe, Ingeniero en Informatica en [DuocUC](https://www.duoc.cl/)
 - :computer: Actualmente estoy trabajando como Soporte Técnico Informático en [Datavoz](https://datavoz.cl/)
 - 🎮🛠️ estoy buscando crecer como profesional y adquirir nuevas experiencias
 - :technologist: Me apasiona la tecnologia tanto para divertirme como para solucionar problemas de la vida cotidiana.
