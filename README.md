@@ -7,12 +7,11 @@
 
 <br>
 
-- :school: Soy Felipe, Ingeniero en Informatica en [DuocUC](https://www.duoc.cl/)
-- :computer: Actualmente estoy trabajando como Soporte Técnico Informático en [Datavoz](https://datavoz.cl/)
-- 🎮🛠️ estoy buscando crecer como profesional y adquirir nuevas experiencias
+- :school: Soy Felipe, Ingeniero en Informatica titulado en [DuocUC](https://www.duoc.cl/)
+- :computer: Actualmente estoy buscando crecer como profesional y adquirir nuevas experiencias 🎮🛠️
 - :technologist: Me apasiona la tecnologia tanto para divertirme como para solucionar problemas de la vida cotidiana.
 - :student: Siempre estoy aprendiendo cosas nuevas. 
-- :thinking: Actualmente estoy abierto a una nueva oportunidad laboral.
+- :thinking: Abierto a una nueva oportunidad laboral.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture><br> Contactame
