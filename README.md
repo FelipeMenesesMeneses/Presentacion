@@ -66,11 +66,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-
- <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
-  &emsp;
    
 </p>
 
